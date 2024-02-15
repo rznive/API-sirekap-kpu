@@ -1,0 +1,296 @@
+{
+"status": true,
+"creator": "Riize",
+"data": {
+"anis_muhaimin_01": {
+"nama": "H. ANIES RASYID BASWEDAN, Ph.D. - Dr. (H.C.) H. A. MUHAIMIN ISKANDAR",
+"perolehan_suara": 8705532
+},
+"prabowo_gibran_02": {
+"nama": "H. PRABOWO SUBIANTO - GIBRAN RAKABUMING RAKA",
+"perolehan_suara": 19777201
+},
+"ganjar_mahfud_03": {
+"nama": "H. GANJAR PRANOWO, S.H., M.I.P. - Prof. Dr. H. M. MAHFUD MD",
+"perolehan_suara": 6214432
+}
+},
+"current_tps": 360778,
+"end_tps": 823236,
+"last_update": "Kamis, 15/02/2024 16:30:23 WIB, progress 360778 dari 823236 TPS (43.82)",
+"data_wilayah": {
+"ACEH": {
+"nama": "ACEH",
+"anis_muhaimin_01": 712663,
+"prabowo_gibran_02": 134967,
+"ganjar_mahfud_03": 15532,
+"nilai_persen": 45.09
+},
+"BALI": {
+"nama": "BALI",
+"anis_muhaimin_01": 17328,
+"prabowo_gibran_02": 249131,
+"ganjar_mahfud_03": 212559,
+"nilai_persen": 36.32
+},
+"BANTEN": {
+"nama": "BANTEN",
+"anis_muhaimin_01": 502557,
+"prabowo_gibran_02": 790052,
+"ganjar_mahfud_03": 153697,
+"nilai_persen": 53.24
+},
+"BENGKULU": {
+"nama": "BENGKULU",
+"anis_muhaimin_01": 60799,
+"prabowo_gibran_02": 208354,
+"ganjar_mahfud_03": 35037,
+"nilai_persen": 35.94
+},
+"DAERAH ISTIMEWA YOGYAKARTA": {
+"nama": "DAERAH ISTIMEWA YOGYAKARTA",
+"anis_muhaimin_01": 122367,
+"prabowo_gibran_02": 283596,
+"ganjar_mahfud_03": 173902,
+"nilai_persen": 42.49
+},
+"DKI JAKARTA": {
+"nama": "DKI JAKARTA",
+"anis_muhaimin_01": 555178,
+"prabowo_gibran_02": 559889,
+"ganjar_mahfud_03": 242479,
+"nilai_persen": 51.45
+},
+"GORONTALO": {
+"nama": "GORONTALO",
+"anis_muhaimin_01": 27051,
+"prabowo_gibran_02": 63167,
+"ganjar_mahfud_03": 5810,
+"nilai_persen": 38.17
+},
+"JAMBI": {
+"nama": "JAMBI",
+"anis_muhaimin_01": 123981,
+"prabowo_gibran_02": 325109,
+"ganjar_mahfud_03": 55645,
+"nilai_persen": 39.15
+},
+"JAWA BARAT": {
+"nama": "JAWA BARAT",
+"anis_muhaimin_01": 2019473,
+"prabowo_gibran_02": 3518826,
+"ganjar_mahfud_03": 654479,
+"nilai_persen": 46.51
+},
+"JAWA TENGAH": {
+"nama": "JAWA TENGAH",
+"anis_muhaimin_01": 948003,
+"prabowo_gibran_02": 4446987,
+"ganjar_mahfud_03": 2550398,
+"nilai_persen": 56.69
+},
+"JAWA TIMUR": {
+"nama": "JAWA TIMUR",
+"anis_muhaimin_01": 730940,
+"prabowo_gibran_02": 3039919,
+"ganjar_mahfud_03": 836266,
+"nilai_persen": 43.97
+},
+"KALIMANTAN BARAT": {
+"nama": "KALIMANTAN BARAT",
+"anis_muhaimin_01": 163036,
+"prabowo_gibran_02": 299665,
+"ganjar_mahfud_03": 78586,
+"nilai_persen": 35.86
+},
+"KALIMANTAN SELATAN": {
+"nama": "KALIMANTAN SELATAN",
+"anis_muhaimin_01": 176456,
+"prabowo_gibran_02": 269996,
+"ganjar_mahfud_03": 34045,
+"nilai_persen": 36.23
+},
+"KALIMANTAN TENGAH": {
+"nama": "KALIMANTAN TENGAH",
+"anis_muhaimin_01": 46655,
+"prabowo_gibran_02": 161940,
+"ganjar_mahfud_03": 27801,
+"nilai_persen": 32.29
+},
+"KALIMANTAN TIMUR": {
+"nama": "KALIMANTAN TIMUR",
+"anis_muhaimin_01": 74771,
+"prabowo_gibran_02": 235879,
+"ganjar_mahfud_03": 37724,
+"nilai_persen": 38.52
+},
+"KALIMANTAN UTARA": {
+"nama": "KALIMANTAN UTARA",
+"anis_muhaimin_01": 10745,
+"prabowo_gibran_02": 31628,
+"ganjar_mahfud_03": 5761,
+"nilai_persen": 21.53
+},
+"KEPULAUAN BANGKA BELITUNG": {
+"nama": "KEPULAUAN BANGKA BELITUNG",
+"anis_muhaimin_01": 64110,
+"prabowo_gibran_02": 160537,
+"ganjar_mahfud_03": 46910,
+"nilai_persen": 47.38
+},
+"KEPULAUAN RIAU": {
+"nama": "KEPULAUAN RIAU",
+"anis_muhaimin_01": 61065,
+"prabowo_gibran_02": 102145,
+"ganjar_mahfud_03": 21700,
+"nilai_persen": 32.75
+},
+"LAMPUNG": {
+"nama": "LAMPUNG",
+"anis_muhaimin_01": 189461,
+"prabowo_gibran_02": 749815,
+"ganjar_mahfud_03": 166362,
+"nilai_persen": 47.57
+},
+"Luar Negeri": {
+"nama": "Luar Negeri",
+"anis_muhaimin_01": 141209,
+"prabowo_gibran_02": 142831,
+"ganjar_mahfud_03": 103188,
+"nilai_persen": 24.72
+},
+"MALUKU": {
+"nama": "MALUKU",
+"anis_muhaimin_01": 16548,
+"prabowo_gibran_02": 61938,
+"ganjar_mahfud_03": 19953,
+"nilai_persen": 32.52
+},
+"MALUKU UTARA": {
+"nama": "MALUKU UTARA",
+"anis_muhaimin_01": 29654,
+"prabowo_gibran_02": 60365,
+"ganjar_mahfud_03": 12105,
+"nilai_persen": 20.35
+},
+"NUSA TENGGARA BARAT": {
+"nama": "NUSA TENGGARA BARAT",
+"anis_muhaimin_01": 153784,
+"prabowo_gibran_02": 416327,
+"ganjar_mahfud_03": 57414,
+"nilai_persen": 41.38
+},
+"NUSA TENGGARA TIMUR": {
+"nama": "NUSA TENGGARA TIMUR",
+"anis_muhaimin_01": 26758,
+"prabowo_gibran_02": 190670,
+"ganjar_mahfud_03": 99303,
+"nilai_persen": 36.28
+},
+"P A P U A": {
+"nama": "P A P U A",
+"anis_muhaimin_01": 3208,
+"prabowo_gibran_02": 14489,
+"ganjar_mahfud_03": 4343,
+"nilai_persen": 18.11
+},
+"PAPUA BARAT": {
+"nama": "PAPUA BARAT",
+"anis_muhaimin_01": 2742,
+"prabowo_gibran_02": 18169,
+"ganjar_mahfud_03": 6844,
+"nilai_persen": 15.55
+},
+"PAPUA BARAT DAYA": {
+"nama": "PAPUA BARAT DAYA",
+"anis_muhaimin_01": 4037,
+"prabowo_gibran_02": 13848,
+"ganjar_mahfud_03": 5045,
+"nilai_persen": 23.65
+},
+"PAPUA PEGUNUNGAN": {
+"nama": "PAPUA PEGUNUNGAN",
+"anis_muhaimin_01": null,
+"prabowo_gibran_02": null,
+"ganjar_mahfud_03": null,
+"nilai_persen": 0
+},
+"PAPUA SELATAN": {
+"nama": "PAPUA SELATAN",
+"anis_muhaimin_01": 1955,
+"prabowo_gibran_02": 9354,
+"ganjar_mahfud_03": 1621,
+"nilai_persen": 11.92
+},
+"PAPUA TENGAH": {
+"nama": "PAPUA TENGAH",
+"anis_muhaimin_01": 1253,
+"prabowo_gibran_02": 2551,
+"ganjar_mahfud_03": 904,
+"nilai_persen": 2.16
+},
+"RIAU": {
+"nama": "RIAU",
+"anis_muhaimin_01": 242005,
+"prabowo_gibran_02": 289223,
+"ganjar_mahfud_03": 58746,
+"nilai_persen": 29.16
+},
+"SULAWESI BARAT": {
+"nama": "SULAWESI BARAT",
+"anis_muhaimin_01": 34879,
+"prabowo_gibran_02": 90420,
+"ganjar_mahfud_03": 14136,
+"nilai_persen": 38.18
+},
+"SULAWESI SELATAN": {
+"nama": "SULAWESI SELATAN",
+"anis_muhaimin_01": 542807,
+"prabowo_gibran_02": 788743,
+"ganjar_mahfud_03": 89017,
+"nilai_persen": 44.47
+},
+"SULAWESI TENGAH": {
+"nama": "SULAWESI TENGAH",
+"anis_muhaimin_01": 30287,
+"prabowo_gibran_02": 80273,
+"ganjar_mahfud_03": 13088,
+"nilai_persen": 21.41
+},
+"SULAWESI TENGGARA": {
+"nama": "SULAWESI TENGGARA",
+"anis_muhaimin_01": 53536,
+"prabowo_gibran_02": 154599,
+"ganjar_mahfud_03": 13476,
+"nilai_persen": 35.93
+},
+"SULAWESI UTARA": {
+"nama": "SULAWESI UTARA",
+"anis_muhaimin_01": 40994,
+"prabowo_gibran_02": 361481,
+"ganjar_mahfud_03": 87656,
+"nilai_persen": 55.4
+},
+"SUMATERA BARAT": {
+"nama": "SUMATERA BARAT",
+"anis_muhaimin_01": 288124,
+"prabowo_gibran_02": 197578,
+"ganjar_mahfud_03": 22758,
+"nilai_persen": 44.05
+},
+"SUMATERA SELATAN": {
+"nama": "SUMATERA SELATAN",
+"anis_muhaimin_01": 181092,
+"prabowo_gibran_02": 618961,
+"ganjar_mahfud_03": 103721,
+"nilai_persen": 41.05
+},
+"SUMATERA UTARA": {
+"nama": "SUMATERA SELATAN",
+"anis_muhaimin_01": 304021,
+"prabowo_gibran_02": 633779,
+"ganjar_mahfud_03": 146421,
+"nilai_persen": 38.69
+}
+}
+}
